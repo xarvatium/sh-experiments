@@ -1,4 +1,4 @@
-#!/usr/local/zsh
+#!/bin/zsh
 
 while [ true ]; do
 
